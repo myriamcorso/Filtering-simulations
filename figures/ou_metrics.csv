@@ -1,0 +1,4 @@
+filter,avg_mse,time_s
+kalman,0.2876,0.0001
+ukf,0.2876,0.0018
+pf,0.2897,0.0204
